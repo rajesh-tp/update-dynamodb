@@ -5,26 +5,16 @@ this readme sucks
 <h2 align="center"> ━━━━━━  ❖  ━━━━━━ </h2>
 
 <!--- TITLE --->
-<h1 align="center"> lorem ipsum </h1>
+<h1 align="center"> Example of BulkUpdate a DynamoDB table </h1>
 
 <!--- DESCRIPTION --->
 <div align="center">
-   <p></p>
+   <p>This example program illustrates how to bulk update an Employee dynamodb table using aws sdk.</p>
    <br>
+   <p>Also it will retry if there are unprocessed items and we can configure the retry count.</p>
 </div>
 
 ---
-
-## :money_with_wings: <samp>TIP JAR</samp>
-
-   If you enjoyed it and would like to show your appreciation, you may want to tip me here.
-
-   It is never required but always appreciated. Thanks from the bottom of my heart!
-
-   |  Donate With  |                      Address                       |
-   | :-----------: | :------------------------------------------------: |
-   |     Placeholder     |     [Click Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)      |
-
 
 <!--- LICENSE --->
 ## :scroll: <samp>LICENSE</samp>
