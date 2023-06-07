@@ -14,6 +14,11 @@ this readme sucks
    <p>Also it will retry if there are unprocessed items and we can configure the retry count.</p>
 </div>
 
+<div align="left">
+   <p>npm run build</p>   
+   <p>node src/student.js</p>
+</div>
+
 ---
 
 <!--- LICENSE --->
